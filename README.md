@@ -21,21 +21,18 @@ I'm actively seeking international opportunities where I can contribute, grow, a
 
 ## 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=toesca-docx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+# 📊 GitHub Stats:
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=toesca-docx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+![](https://github-readme-stats.vercel.app/api?username=toesca-docx&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=toesca-docx&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=toesca-docx&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
-      
+
+##
+
+### ✍️ Random Dev Quote
+<div>
+ <img align="center"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+ </div>
+
+[![](https://visitcount.itsvg.in/api?id=toesca-docx&icon=0&color=12)](https://visitcount.itsvg.in)
